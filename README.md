@@ -11,7 +11,7 @@
 ## Skills
 
 - **Languages:** Python
-- **Web Development:** Flask, HTML, CSS, JavaScript, jQuery
+- **Web Development:** Flask, HTML, CSS, bootstrap, JavaScript, jQuery
 - **Databases:** SQLAlchemy, Sqlite3
 - **Tools:** Git, Docker
 - **Testing:** pytest
@@ -19,12 +19,12 @@
 
 ## Projects
 
-Here are some projects that demonstrate my skills:
+Here are some projects that demonstrate my skills (Hyperlinked projects are completed):
 
-1. **Personal Portfolio Website**
-   - Created a personal website using Flask for backend logic.
-   - Implemented dynamic content using Flask templates and included a contact form.
-   - **Technologies used:** Flask, HTML, CSS
+1. **Authentication System**
+   - Created a standalone authentication system using Flask.
+   - Implemented features like user registration, login, password reset, and account management.
+   - **Technologies used:** Flask, SQLAlchemy
 
 2. **Blog Platform**
    - Developed a blog platform with user authentication, post creation, and commenting features.
@@ -51,25 +51,27 @@ Here are some projects that demonstrate my skills:
    - Used Flask for user authentication, job posting functionality, and search features.
    - **Technologies used:** Flask, HTML, CSS, SQLAlchemy
 
-7. **Authentication System**
-   - Created a standalone authentication system using Flask.
-   - Implemented features like user registration, login, password reset, and account management.
-   - **Technologies used:** Flask, SQLAlchemy
-
-8. **Real-Time Chat Application**
+7. **Real-Time Chat Application**
    - Built a real-time chat application with user accounts, chat rooms, and WebSocket integration.
    - Used Flask for backend logic and integrated WebSocket for real-time communication.
    - **Technologies used:** Flask, HTML, CSS, JavaScript, WebSocket
 
-9. **Expense Tracker**
+8. **Expense Tracker**
    - Developed an expense tracker with features for logging expenses and viewing spending trends.
    - Used Flask for backend logic and data storage.
    - **Technologies used:** Flask, SQLAlchemy
 
-10. **API Integration Project**
+10. **Personal Portfolio Website**
+   - Created a personal website using Flask for backend logic.
+   - Implemented dynamic content using Flask templates and included a contact form.
+   - **Technologies used:** Flask, HTML, CSS
+     
+11. **API Integration Project**
     - Integrated with a third-party API to create a weather application.
     - Used Flask for handling API requests and displaying the retrieved data.
     - **Technologies used:** Flask, HTML, CSS
+   
+       
 
 Feel free to explore these projects on my [GitHub repositories](Link to your repositories).
 
