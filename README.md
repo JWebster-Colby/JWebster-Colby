@@ -21,7 +21,7 @@
 
 Here are some projects that I'm currently working on to demonstrate my skills as a backend developer. Please note that these projects are in progress, and my goal is to complete each of them:
 
-1. **Authentication System**
+1. **[Authentication System](https://github.com/JWebster-Colby/Flask-Authentication-System)**
    - Creating a standalone authentication system using Flask.
    - Implementing features like user registration, login, password reset, and account management.
    - **Technologies used:** Flask, SQLAlchemy, Bulma
