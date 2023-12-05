@@ -1,14 +1,14 @@
 # Joseph Webster Colby
-
+<img width='500' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JWebster-Colby&theme=vue" />
 👋 Hi there! I'm Joe, a passionate backend developer specializing in Python and Flask.
 
 ## About Me
-
 - 🌐 Web Developer with expertise in Python and Flask
 - 💡 Strong problem-solving skills and a knack for developing efficient, scalable solutions
 - 🌱 Currently learning SCSS & MongoDB
 
 ## Skills
+<img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWebster-Colby" />
 
 - **Languages:** Python
 - **Web Development:** Flask, HTML, CSS, bootstrap, JavaScript, jQuery
@@ -80,3 +80,5 @@ Feel free to explore these projects on my [GitHub repositories](Link to your rep
 📧 You can reach out to me via [Email](mailto:rwc.webster+backend-developer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-webster-b596641a8).
 
 Thanks for visiting! I'm always open to collaboration and new opportunities.
+
+<img width='150' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJWebster-Colby%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
