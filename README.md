@@ -22,53 +22,53 @@
 Here are some projects that I'm currently working on to demonstrate my skills as a backend developer. Please note that these projects are in progress, and my goal is to complete each of them:
 
 1. **Authentication System**
-   - Created a standalone authentication system using Flask.
-   - Implemented features like user registration, login, password reset, and account management.
+   - Creating a standalone authentication system using Flask.
+   - Implementing features like user registration, login, password reset, and account management.
    - **Technologies used:** Flask, SQLAlchemy
 
 2. **Blog Platform**
-   - Developed a blog platform with user authentication, post creation, and commenting features.
-   - Utilized Flask for the backend to handle user authentication, post creation, and comments.
+   - Developing a blog platform with user authentication, post creation, and commenting features.
+   - Utilizing Flask for the backend to handle user authentication, post creation, and comments.
    - **Technologies used:** Flask, HTML, CSS, SQLAlchemy
 
 3. **RESTful API**
-   - Developed a RESTful API for a to-do list application.
-   - Implemented CRUD operations and ensured proper authentication for accessing the API.
+   - Developing a RESTful API for a to-do list application.
+   - Implementing CRUD operations and ensuring proper authentication for accessing the API.
    - **Technologies used:** Flask, SQLAlchemy
 
 4. **E-commerce Platform**
-   - Created a basic e-commerce platform with product listings, shopping cart, and user authentication.
-   - Used Flask for the backend to handle transactions and manage product data.
+   - Creating a basic e-commerce platform with product listings, shopping cart, and user authentication.
+   - Using Flask for the backend to handle transactions and manage product data.
    - **Technologies used:** Flask, HTML, CSS, SQLAlchemy
 
 5. **Social Media Dashboard**
-   - Built a dashboard that aggregates data from different social media platforms.
-   - Used Flask for backend logic and integrated with third-party APIs.
+   - Building a dashboard that aggregates data from different social media platforms.
+   - Using Flask for backend logic and integrating with third-party APIs.
    - **Technologies used:** Flask, HTML, CSS, JavaScript
 
 6. **Job Board**
-   - Developed a job board with features for job posting, searching, and application.
-   - Used Flask for user authentication, job posting functionality, and search features.
+   - Developing a job board with features for job posting, searching, and application.
+   - Using Flask for user authentication, job posting functionality, and search features.
    - **Technologies used:** Flask, HTML, CSS, SQLAlchemy
 
 7. **Real-Time Chat Application**
-   - Built a real-time chat application with user accounts, chat rooms, and WebSocket integration.
-   - Used Flask for backend logic and integrated WebSocket for real-time communication.
+   - Building a real-time chat application with user accounts, chat rooms, and WebSocket integration.
+   - Using Flask for backend logic and integrating WebSocket for real-time communication.
    - **Technologies used:** Flask, HTML, CSS, JavaScript, WebSocket
 
 8. **Expense Tracker**
-   - Developed an expense tracker with features for logging expenses and viewing spending trends.
-   - Used Flask for backend logic and data storage.
+   - Developing an expense tracker with features for logging expenses and viewing spending trends.
+   - Using Flask for backend logic and data storage.
    - **Technologies used:** Flask, SQLAlchemy
 
-10. **Personal Portfolio Website**
-    - Created a personal website using Flask for backend logic.
-    - Implemented dynamic content using Flask templates and included a contact form.
-    - **Technologies used:** Flask, HTML, CSS
+9. **Personal Portfolio Website**
+   - Creating a personal website using Flask for backend logic.
+   - Implementing dynamic content using Flask templates and including a contact form.
+   - **Technologies used:** Flask, HTML, CSS
      
-11. **API Integration Project**
-    - Integrated with a third-party API to create a weather application.
-    - Used Flask for handling API requests and displaying the retrieved data.
+10. **API Integration Project**
+    - Integrating with a third-party API to create a weather application.
+    - Using Flask for handling API requests and displaying the retrieved data.
     - **Technologies used:** Flask, HTML, CSS
 
 Feel free to check back as I work on these projects to see the progress and the skills I'm showcasing as a backend developer. Your feedback and suggestions are always welcome!
