@@ -24,7 +24,7 @@ Here are some projects that I'm currently working on to demonstrate my skills as
 1. **Authentication System**
    - Creating a standalone authentication system using Flask.
    - Implementing features like user registration, login, password reset, and account management.
-   - **Technologies used:** Flask, SQLAlchemy
+   - **Technologies used:** Flask, SQLAlchemy, Bulma
 
 2. **Blog Platform**
    - Developing a blog platform with user authentication, post creation, and commenting features.
