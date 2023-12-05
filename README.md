@@ -77,6 +77,6 @@ Feel free to explore these projects on my [GitHub repositories](Link to your rep
 
 ## Contact
 
-📧 You can reach out to me via [Email](mailto:rwc.webster+backend-developer) or connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-webster-b596641a8).
+📧 You can reach out to me via [Email](mailto:rwc.webster+backend-developer@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-webster-b596641a8).
 
 Thanks for visiting! I'm always open to collaboration and new opportunities.
