@@ -19,7 +19,7 @@
 
 ## Projects
 
-Here are some projects that demonstrate my skills (Hyperlinked projects are completed):
+Here are some projects that I'm currently working on to demonstrate my skills as a backend developer. Please note that these projects are in progress, and my goal is to complete each of them:
 
 1. **Authentication System**
    - Created a standalone authentication system using Flask.
@@ -70,10 +70,8 @@ Here are some projects that demonstrate my skills (Hyperlinked projects are comp
     - Integrated with a third-party API to create a weather application.
     - Used Flask for handling API requests and displaying the retrieved data.
     - **Technologies used:** Flask, HTML, CSS
-   
-       
 
-Feel free to explore these projects on my [GitHub repositories](Link to your repositories).
+Feel free to check back as I work on these projects to see the progress and the skills I'm showcasing as a backend developer. Your feedback and suggestions are always welcome!
 
 ## Contact
 
