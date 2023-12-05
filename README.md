@@ -62,9 +62,9 @@ Here are some projects that demonstrate my skills (Hyperlinked projects are comp
    - **Technologies used:** Flask, SQLAlchemy
 
 10. **Personal Portfolio Website**
-   - Created a personal website using Flask for backend logic.
-   - Implemented dynamic content using Flask templates and included a contact form.
-   - **Technologies used:** Flask, HTML, CSS
+    - Created a personal website using Flask for backend logic.
+    - Implemented dynamic content using Flask templates and included a contact form.
+    - **Technologies used:** Flask, HTML, CSS
      
 11. **API Integration Project**
     - Integrated with a third-party API to create a weather application.
